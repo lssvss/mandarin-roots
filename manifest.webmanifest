@@ -1,0 +1,30 @@
+{
+ "name": "Mandarin Roots",
+ "short_name": "Mandarin Roots",
+ "description": "HSK 3.0 vocabulary trainer: words by ear first, then their characters.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#edf0ef",
+ "theme_color": "#C8202E",
+ "lang": "en",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
